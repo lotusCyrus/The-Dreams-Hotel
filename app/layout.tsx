@@ -20,9 +20,9 @@ const sourceSans = Source_Sans_3({
 })
 
 export const metadata: Metadata = {
-  title: "Grand Luxe Hotel - Luxury Accommodations & Fine Dining",
+  title: "Dreams Hotel - Luxury Accommodations & Fine Dining",
   description:
-    "Experience luxury at Grand Luxe Hotel with world-class dining, rooftop bar, spa services, and premium accommodations.",
+    "Experience luxury at Dreams Hotel with world-class dining, rooftop bar, spa services, and premium accommodations.",
   generator: "v0.app",
 }
 

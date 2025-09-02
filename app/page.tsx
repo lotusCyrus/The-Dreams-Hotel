@@ -715,7 +715,7 @@ export default function HotelPage() {
             className="border-t border-background/20 mt-12 pt-8 text-center text-background/60 animate-fade-in-up"
             style={{ animationDelay: "800ms" }}
           >
-            <p>&copy; 2024 Dreams Hotel. All rights reserved. | Privacy Policy | Terms of Service</p>
+            <p>&copy; 2025 Dreams Hotel. All rights reserved. | Privacy Policy | Terms of Service</p>
           </div>
         </div>
       </footer>
